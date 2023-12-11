@@ -24,43 +24,48 @@
 </a>
 </p>
 
-## ⏬ Download
+## Download
 
 <table>
   <tr>
-    <td style="text-align:center"><b>Windows</b></td>
-    <td colspan="2" style="text-align:center"><b>MacOS</b></td>
-    <td style="text-align:center"><b>Linux</b></td>
+    <td style="text-align:center">
+        <img src='./doc/windows.png' style="height:14px; width: 14px" />
+        <b>Windows</b>
+    </td>
+    <td colspan="2" style="text-align:center">
+        <img src='./doc/mac.png' style="height:15px; width: 15px" />
+        <b>MacOS</b>
+    </td>
+    <td style="text-align:center">
+        <img src='./doc/linux.png' style="height:14px; width: 14px" />
+        <b>Linux</b>
+    </td>
   </tr>
   <tr style="text-align: center">
     <td>
       <a href='https://chatboxai.app/?c=download-windows'>
-        <img src='./doc/windows.png' style="height:14px; width: 14px" />
-        <b>Setup.exe</b>
+        <b>⏬ Setup.exe</b>
       </a>
     </td>
     <td>
       <a href='https://chatboxai.app/?c=download-mac-intel'>
-        <img src='./doc/mac.png' style="height:15px; width: 15px" />
-        <b>Intel</b>
+        <b>⏬ Intel</b>
       </a>
     </td>
     <td>
       <a href='https://chatboxai.app/?c=download-mac-aarch'>
-        <img src='./doc/mac.png' style="height:15px; width: 15px" />
-        <b>M1/M2</b>
+        <b>⏬ M1/M2</b>
       </a>
     </td>
     <td>
       <a href='https://chatboxai.app/?c=download-linux'>
-        <img src='./doc/linux.png' style="height:14px; width: 14px" />
-        <b>AppImage</b>
+        <b>⏬ AppImage</b>
       </a>
     </td>
   </tr>
 </table>
 
-Visit the **[GitHub Releases](https://github.com/Bin-Huang/chatbox/releases)** to download the latest version or any previous release.
+_Visit the [GitHub Releases](https://github.com/Bin-Huang/chatbox/releases) to download the latest version or any previous release._
 
 ## 🌟 Features
 
