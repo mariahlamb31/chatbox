@@ -26,7 +26,7 @@
 
 ## Download
 
-<table>
+<table style="width: 100%;text-align:center;">
   <tr>
     <td style="text-align:center">
         <img src='./doc/windows.png' style="height:14px; width: 14px" />
